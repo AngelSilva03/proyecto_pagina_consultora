@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',  // ← AGREGAR ESTO
-  basePath: '/proyecto_pagina_consultora',  // ← AGREGAR ESTO (nombre de tu repo)
+  output: 'export',  
+  basePath: '/proyecto_pagina_consultora',  //  repo)
   typescript: {
     ignoreBuildErrors: true,
   },
